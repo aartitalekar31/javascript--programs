@@ -1,0 +1,26 @@
+console.log(":::::::::::::::::::1::::::::::::::::::");
+var bankName;
+console.log("bank name is:",bankName);
+var bankName="SBI Bank";
+console.log("bank name is:",bankName);
+
+var c=console.log("Data type is:",typeof bankName);
+console.log(":::::::::::::::2:::::::::::::::::::::");
+var mark="70%";
+console.log("my mark is",mark);
+var d=console.log("Data Type is:",typeof mark);
+console.log("::::::::::::::::::3:::::::::::::");
+var work;
+console.log("my working status is:",work);
+var work=false;
+console.log("my working status:",work);
+console.log("Data type is:",typeof work);
+console.log(":::::::::::::4::::::::::::");
+console.log(".............a..............");
+var d="Hundred and Seven";
+console.log("Total count is:",d);
+var e=console.log("Data type is:",typeof d);
+console.log("............b...............");
+var number=107;
+console.log("Total count is:",number);
+var f=console.log("Data type used is:",typeof number);
